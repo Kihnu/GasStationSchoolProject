@@ -19,5 +19,6 @@ admin5,testaa2020
 Virhetarkastelut:
 -Asettaa väärän salasanan tai käyttätunnuksen kirjautuessa.
   
-  Bensatankit:
-  -Ottaa liikaa bensaa tankista.
+ 
+Bensatankit:
+-Ottaa liikaa bensaa tankista.
