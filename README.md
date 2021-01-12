@@ -1,8 +1,11 @@
 # GasStationSchoolProject
 Kouluprojektin oma osuuteni ryhmästä syksyllä 2020.
 
+IDE: Eclipse
+
+
 Ohjelmassa:
-MD5 kryptauksella salasanat kirjoitettutunnukset.txt tiedostossa.
+MD5 kryptauksella salasanat kirjoitettutunnukset.txt tiedostossa
 
 Tilaukset kirjataan Tilaukset.txt tiedostoon.
 
