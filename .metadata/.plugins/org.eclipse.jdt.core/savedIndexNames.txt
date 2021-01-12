@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+F:\Programming\GitHub\Java\Bensis Githubiin 2020 syksy\GasStationSchoolProject\.metadata\.plugins\org.eclipse.jdt.core
+2586225078.index
+3557357373.index

@@ -1,0 +1,30 @@
+3. Huoltoaseman bensiinitankit
+
+Mitä olen muuttanut:
+
+Muutin, että olisi 3 eri bensa tiedostosta yhteen bensa tiedostoon. Kaikki bensa määrät ovat yhdessä tiedostossa.
+1. Tein fukntion "lueMaara", joka lukee tiedostosta tietyn luvun riviltä ja returnaa sen 
+2. Tein funktion "tulostaTiedostoonLuku", joka kirjoittaa uudet bensa määrät tietylle riville tiedostoon.
+
+
+
+
+Ohjelman toiminnasta:
+-Estää tilaamasta liian suuren määrän bensaa, jotta tankki ei vuoda yli.
+-Estää tilaamasta liikaa, koska on mahdotonta tilata 50 litraa bensaa, jos tankissa on 10 litraa.
+
+
+Käyttätunnukset ja salasanat:
+kirjoitettutunnukset.txt  (MD5 kryptauksella salasanat tiedostossa)
+
+Käynnistys AsiakasVaiAdmin ohjelmasta
+
+Käyttäjätunnukset ja salasanat lista:
+admin,admin
+Admin2,Testi2020
+admin3,testaa
+admin4, 200testi200
+admin5,testaa2020
+
+
+
