@@ -1,4 +1,4 @@
-3. Huoltoaseman bensiinitankit (Admin puolen osa projektista)
+3. Huoltoaseman bensiinitankit (bensatankin osa projektista)
 
 Käynnistys AsiakasVaiAdmin ohjelmasta
 
